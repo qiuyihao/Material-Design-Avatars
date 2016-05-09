@@ -12,9 +12,9 @@
  * 
  * Create material deisgn avatars for users just like Gmail or Messager in Android.
  */
-namespace Md;
+namespace MaterialDesign;
 
-class MDAvatars
+class Avatars
 {
     public $Char;
     public $AvatarSize;
